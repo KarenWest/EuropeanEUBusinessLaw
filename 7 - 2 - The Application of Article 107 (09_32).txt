@@ -1,0 +1,225 @@
+[MUSIC]
+Hello and welcome to a lecture concerning
+one of my favorite subjects, State Aid.
+Today, I will present you with
+an introduction to State Aid law and
+present the definition of
+State Aid in Article 107 TFEU.
+The main question is how
+do we define State Aid?
+A colleague of mine will tell you more
+about the exceptions from the provision of
+state aid in another lecture.
+I will tell you more about state aid
+procedure and the judicial procedure
+linked to state aid control in
+a separate lecture on Article 180 TFEU.
+In order to profit from this lecture,
+I suggest you read through articles 106,
+107 and 108 TFEU.
+When you have done so, you can
+continue to watch the presentation.
+First, let me tell you something
+about state aid law in general.
+Stated Law is generally speaking, the
+common term to denote the prohibition in
+the treaty of member states
+providing subsidies to companies,
+which threaten to distort
+competition in the EU.
+As we will see,
+the prohibition is shaped, so
+that it allows a wide margin or
+discretion for the administration.
+Both on the European and
+on the member state level,
+the law leaves space for politics.
+One such example is the decision
+of European government and
+the commission to allow state aid to
+banks during the financial crisis.
+But there is another side too,
+that is the economic side of state aid.
+State intervention in the economy is
+a common feature in developed countries.
+Since the state is so
+powerful, an intervention can
+have an impact on the economy.
+While some argue that
+this is a positive force,
+others argue that this
+is a negative force.
+In any case, the application of
+state aid law will always
+have an economic dimension.
+The nature of state aid is therefore,
+best described by the state aid triangle.
+In this course, we will deal mainly
+with the law part of the triangle.
+But keep in mind, that the other
+aspects are just as important.
+The definition of State Aid is
+found in Article 1071 TFEU.
+According to this provision, save as
+otherwise provided in the Treaties.
+Any aid granted by a member state or
+through state resources in any
+form whatsoever, which distorts or
+threatens to distort competition by
+favoring certain undertakings or
+the production of certain goods
+shall be insofar as it affects trade
+between member states incompatible
+with the internal market.
+The notion of undertaking
+is a very flexible one.
+It includes any entity that
+engages in an economic activity,
+regardless of its legal status or
+how it is financed.
+It has also been described as
+an economic entity, which consists of
+a unitary organization of personal,
+tangible and intangible elements,
+which pursue a specific economic
+aim on the long term basis.
+This does not mean that
+an undertaking must be profit driven.
+It is sufficient that the undertaking
+operates on the market in
+which there is competition
+between undertakings.
+Activities, which consist
+in the exercise of
+public authority are not considered
+to be economic activities.
+And therefore, the rules on state,
+they do not apply to these undertakings.
+This rule concerns childcare and
+education and such services.
+There are four main criteria,
+which have to be fulfilled for
+a measure to be defined as state aid.
+The first is that the aid must be granted
+by a state or through state resources.
+This is called Imputability.
+That is the aid must come
+from the purse of the state.
+The notion of state
+carries a wide definition.
+It does not only cover the state per se,
+but also the administration and companies,
+which have very close links to the state
+and fulfill administrative functions.
+The decisive question is
+whether the state has
+a determining influence in the company.
+Here already,
+there is an important exception.
+If the state acts like a private investor
+in the market economy, the intervention
+is considered to be a normal investment,
+such an intervention is not
+considered to fall under the prohibition
+of state aid in Article 171 TFEU.
+Therefore, if state controlled companies
+follow market oriented transactions,
+there is no state aid.
+If the state acts like a creditor,
+owner and
+investor on market terms,
+there is no state aid.
+The second criterion is that
+the aid must bring an advantage.
+Article 171 TFEU speaks of
+favouring undertakings.
+In short,
+the beneficiary of the aid must be
+better off after the aid has
+been granted than he was before.
+But it doesn't have to
+be a transfer of money.
+The provision also covers
+a situation where the state does
+not take out a levy or a tax or otherwise,
+must be paid by everybody else.
+The third criteria is that
+the aid must be selective.
+Article 171 TFEU prohibits
+state aid only if it
+favors certain undertakings or
+the production of certain goods.
+This means that the targeted measured
+to a specific undertaking or
+groups of undertakings is prohibited.
+However, if a measure is
+general in character,
+it's not covered by this criterion.
+You can imagine that this leads to
+big difficulties when it comes to
+tax measures, because how do you determine
+that a certain tax measure is selective?
+There is a lot of discussion
+on this particular topic and
+a lot of case law from
+the court of justice.
+The fourth criteria concerns
+the distortion of competition.
+Here we have a presumption that if
+the first three criteria are fulfilled,
+the last one is fulfilled too.
+However, this does not
+free the authorities from
+making an assessment on this point.
+But the burden of proof goes over to
+the state or beneficiary to show that
+the measure in question does not distort
+or threaten to distort competition.
+There has been discussions about
+how to make this assessment more
+scientific based on competition economics,
+but
+that discussion effectively
+ended with the financial crisis.
+The question whether these four
+conditions are fulfilled are always
+made based on objective criteria,
+that is the intention behind
+an intervention by the state
+plays a secondary role.
+So remember,
+when these four criteria are fulfilled,
+a measure qualifies as state aid and
+an Article 171 TFEU.
+However, there is much more to be
+said about the state aid system.
+At the center stage of the system, you
+will find the exception to the prohibition
+which are laid down in Article 107(2) and
+107(3) TFEU.
+As far as state aid is concerned,
+these exceptions and
+how they are applied by the commission
+contribute to a much softer application
+of the prohibition than the wording
+of Article 171 TFEU may imply.
+So when you hear the following
+lecture on Article 172 and
+173 TFEU and the other exceptions
+to the prohibitions on state aid.
+Keep in mind that those
+provisions only applied to
+measures that have already been
+declared state aid as such.
+It's just that they maybe justified or
+as we say in EU law,
+declared compatible with
+the internal market.
+We now have reached
+the end of this lecture,
+which concerned the basic
+notion of what is a state aid.
+Thank you for tuning in and
+see you soon again.
+[SOUND]
+

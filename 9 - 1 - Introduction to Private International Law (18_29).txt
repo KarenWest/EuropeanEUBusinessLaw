@@ -1,0 +1,399 @@
+[MUSIC]
+The branch of law called
+Private International Law,
+deals mainly with family and
+business relationships and
+disputes having
+international implications.
+Today it is, for example, not unusual that
+the marriage, or a contract is entered
+into by parties who are citizens, or
+habitual residents of different countries.
+A harmful act is sometimes committed,
+or the resulting damage arises in
+a country other than that of those or
+those where the parties habitually reside.
+An object may be sold while
+situated in one country,
+but then subsequently be moved to
+another country where the validity of
+the sale is challenged and so on.
+Now imagine that a Swedish company signs,
+in Italy,
+an agreement with a company in Greece.
+The contract provides that
+the Swedish company will repair some
+machinery owned by the Greek company but
+situated in Hungary.
+Now just like purely domestic contracts,
+without any foreign elements,
+this agreement can conceivably
+give rise to various disputes.
+For example, the parties may disagree
+on whether the price of the spare
+parts needed for the repair is
+included in the agreed remuneration.
+Or one of the parties may
+claim compensation for
+an alleged breach of
+contract by the other party.
+One of the parties may even argue that
+the whole contract is invalid because it
+was entered into under the influence of
+a fraud committed by the other party.
+Now, whenever a business or
+family relationship have a contract
+connections with more than one country,
+and thereby with more than one legal
+system gives rise to a legal controversy.
+The international character of
+the situation causes a number
+of complications.
+To begin with, the contents of
+the laws of the various countries
+connected with the situation may differ,
+and thus could lead to different outcomes.
+It may, therefore, be necessary
+to decide which of them should
+govern the substance of the dispute.
+It is not self-evident that the court
+adjudicating the dispute should apply
+its own law, which may have a very weak or
+no relation to the actual situation.
+It is more reasonable to apply the law of
+the country with which the relationship is
+most closely connected.
+But which law is it?
+Returning to our example.
+Is it the law of the country
+where the contract was signed?
+That would be Italian law.
+The law of the provider of
+the repair service, Swedish law.
+The law of the country of the customer,
+Greek law.
+The law of the country where
+the repair has been carried out or
+is supposed to be carried out,
+Hungarian law, or some other law.
+Now this is the moment where
+Private International Law steps in, and
+provides an answer to this question
+by designating the law to be applied.
+As the problem is often perceived as
+involving a conflict between the legal
+systems of the countries
+connected in some way
+with the legal relationship in question.
+The rules designating
+the national law to be applied
+are commonly called conflict rules.
+These conflict rules constitute the very
+core of private international law.
+Which is the reason why in some countries
+for example, in the United States,
+a private international law is
+simply called conflict of laws.
+An example of a typical conflict
+rule found in Article 4 of the EU
+regulation from 2008, on the law
+applicable to contractual obligations.
+Stipulates that to the extent
+the law applicable
+to the contract has not been agreed by
+the parties themselves, a contract for
+the provision of services should
+be governed by the law of
+the country where the service
+provider has his habitual residence.
+That is, in our example, Swedish law.
+This example illustrates the fact
+that conflict rules are mainly
+of a technical nature.
+They do not deal with the substance
+of the dispute but merely with
+a question about which national legal
+system is to be applied to that substance.
+Conflict rules are,
+consequently, rules about applicable
+rules rather than rules about reality.
+In a wider sense, private international
+law comprises not only conflict rules,
+but even rules dealing with
+certain procedural situations,
+having international character.
+The most important of such provisions
+regulate the international
+jurisdiction of courts.
+That is, they specify which connection
+between the dispute in a country
+is sufficient to make the courts of
+that country competent to adjudicate.
+Returning to our example, if the Greek
+company wants to sue the Swedish company,
+does it have to do it in a Swedish court
+or can it turn to a court in Greece?
+Or perhaps a court in Hungary, or Italy?
+Of great importance are also
+rules on the recognition and
+enforcement of foreign judgments.
+If the Greek company obtains a Greek,
+Italian, or Hungarian judgment against
+the Swedish company,
+can it have it enforced in Sweden,
+where all the assets of the Swedish
+company are assumed to be situated?
+Traditionally, the rules of
+private international law,
+in spite of the word international
+have been of national origin and
+varied from country to country.
+Due to the differences between
+the various national conflict rules, and
+due to the frequent non-recognition
+of foreign judgments.
+It could easily happen that for example,
+the same contract was considered invalid
+in one country, but not in another.
+The same could occur in
+the field of family law.
+For example, a couple divorced in one
+country could, in another country,
+continue to be considered as married.
+Such complications arise in spite of
+certain efforts to resolve them on
+the global level, even today.
+But they are particularly problematic
+in Europe, because they can
+affect adversely the functioning of
+the European Common Internal Market,
+characterized by the free movement of
+persons, goods, services and capital.
+It is, at present, not realistic
+to expect the total unification or
+harmonization of the substantive
+private law of the member states.
+A European civil code will,
+within the foreseeable future,
+hardly be anything else than a dream.
+This makes it particularly important
+to unify the private international
+law of the member states, so that
+the law of the same country is applied,
+regardless of in which member
+state the dispute is adjudicated.
+It is equally important that
+the judgments given by a court of
+a member state are recognized and
+enforced in the other member states.
+Since the turn of the millennium,
+the European Union has therefore
+been very active in the field
+of private international law.
+The legal basis of EU's legislative
+competence regarding private international
+law, is today Article 881 of the Treaty
+on the Functioning of the European Union.
+Which provides that the Union should
+develop judicial cooperation in civil
+matters having cross-border implications,
+particularly when necessary for
+the proper,
+proper functioning of the internal market.
+This cooperation in civil matters includes
+taking measures aimed at ensuring,
+among other things, the compatibility of
+the rules applicable in the member states.
+Concerning conflict of laws,
+jurisdiction of courts, and
+the mutual recognition and enforcement
+between member states of judgments.
+On the basis of Article 81 and
+its predecessor, the European Union
+has issued a substantial number of
+instruments dealing in these matters.
+The most important among them,
+are the regulation on jurisdiction and
+the enforcement of judgments in civil and
+commercial matters, the so
+called, Brussels I regulation.
+The regulation on insolvency proceedings.
+The regulation concerning jurisdiction and
+the enforcement of judgments
+in matrimonial matters.
+In the matters of parental responsibility,
+the so called Brussel II regulation.
+The regulation on the law applicable
+to contractual obligations, the so
+called Rome I regulation.
+The regulation on the law applicable
+to non-contractual obligations, the so
+called Rome II, regulation.
+The Regulation of Jurisdiction, Applicable
+Law, Recognition and Enforcement of
+Decisions, and Cooperation in Matters
+relating to Maintenance Obligations.
+The Regulation Implementing
+Enhanced Cooperation in
+the Area of the Law Applicable
+to Divorce and Legal Separation.
+And last, but not least, the Regulation
+on Jurisdiction, Applicable Law,
+Recognition and Enforcement of
+Decisions in Matters of Succession.
+Now, all these regulations are binding
+on the courts of the member states.
+They are in principle to be understood and
+applied uniformly in
+the whole European Union.
+And the auth,
+authoritative interpretation of their
+meaning has been entrusted to the court
+of justice of the European Union,
+which has already rendered a large
+number of judgments regarding them.
+A number of additional instruments
+of EU Private International Law
+are being prepared.
+For example, rules on jurisdiction,
+applicable law, and the recognition and
+enforcement of decisions regarding
+matrimonial property regimes.
+But there still remains
+several other issues,
+not regulated by EU Private International
+Law, and these continue to be governed
+by the law designated by national conflict
+rules of the member state of the court.
+This applies for instance,
+to the validity of marriages, or
+the protection measures such as,
+guardianship for adults who,
+due to mental problem or age,
+are unable to take care of their affairs.
+It must be mentioned that due to special
+arrangements, Denmark, in spite of being
+an EU Member State, does not participate
+in this legislative cooperation.
+And that the United Kingdom in Ireland,
+although not obliged to participate,
+have in most cases,
+made use of the right to opt in,
+that is to decide to take part in this
+cooperation, on a voluntary basis.
+The creation and ongoing growth of
+European Private International Law,
+attracts the attention of
+many legal academics, and
+has given rise to
+significant legal research.
+An association of leading specialists
+in the field is the European Group for
+Private International Law, GEDIP,
+which meets annually to discuss and
+adopt recommendations concerning
+current developments and projects.
+The rest of today's lecture will deal
+with the jurisdiction of courts and
+the recognition and
+enforcement, enforcement of
+judgments in business disputes.
+Due to time constraints,
+I shall leave aside both family law and
+the special rules protecting the weaker
+parties, such as consumers or employees.
+The, the relevant provisions are found
+in the so-called Brussels I regulation,
+that has already been mentioned.
+Now pursuant to the main rule, a person,
+who in the business dispute
+is usually a company of some
+sort, domiciled in a Member State, must be
+sued in the court of that Member State.
+While the persons domiciled
+outside the European Union, remain
+subject to the national jurisdictional
+rules of the member state of the court.
+For example, the United Kingdom has a rule
+that grants their courts jurisdiction
+against a foreign person, if
+the documents instituting the proceedings
+have been served on him during his
+temporary visit in the United Kingdom.
+This rather excessive ground
+of jurisdiction continues to
+apply in the UK if the defendant
+is domiciled in, for
+example, the United States,
+Russia, or South Africa.
+But it cannot be used if
+the defendant is domiciled in, for
+example, Sweden, because Sweden is
+a member state of the European Union.
+Some persons,
+in particular in the United States,
+have criticized this approach
+as unfair and discriminatory.
+The main rule on the exclusive
+jurisdiction of the court of the member
+state of the defendant's domicile,
+is subject to several exceptions.
+For example,
+in matters relating to tort, a person,
+even a domicile in a member state, may,
+at the option of the plaintiff, also
+be sued in another member state, where
+the harmful event occurred, or may occur.
+Some kinds of disputes must always,
+irrespective of the domicile of
+the defendant, be dealt with by
+a court designated on another ground.
+For example, proceedings have,
+have their own objective rights in,
+in movable property,
+fall within the exclusive jurisdiction of
+the member state in which
+the property is situated.
+The parties are also permitted,
+under certain conditions, to agree that
+the courts of a certain member state,
+are to have jurisdiction to
+settle disputes between them.
+The prohibition of the use,
+as against defendants domiciled in
+the European Union, of excessive
+national jurisdictional grounds,
+such as the one mentioned
+the United State Kingdom Rule.
+They make it possible to be generous when
+it comes to recognition and enforcement.
+A judgment given in a member state is,
+in principle,
+recognized in the other member states,
+and it is also enforceable there.
+Even here there are exceptions, though,
+such as where the recognition would be
+manifestly contrary to the public
+policy in the member state,
+in which recognition is sought.
+Or if the foreign judgment is
+irreconcilable with the judgment given in
+a dispute between the same parties there.
+I cannot finish this extremely concise and
+simplified introductory description
+of the private international
+law of the European Union
+without having mentioned the existence
+of extremely important ancillary rules.
+Making the adjudication of
+cross-border disputes simpler.
+Such as The EU Regulations on the,
+on the Service in the Member States
+of Judicial and Extrajudicial Documents
+in Civil and Commercial Matters.
+And The Regulation on Cooperation
+between the Courts of
+the Member States in the Taking
+of Evidence in such matters.
+Thank you.
+

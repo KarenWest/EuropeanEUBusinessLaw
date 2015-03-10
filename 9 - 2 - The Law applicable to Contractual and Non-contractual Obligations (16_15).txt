@@ -1,0 +1,347 @@
+[MUSIC]
+My second lecture will deal with
+the designation of the law applicable to
+contracts and torts.
+Or in other words,
+the law applicable to contractual and
+non-contractual obligations.
+Let me start by refreshing your memory
+concerning the example I
+used in my previous lecture.
+A Swedish company has signed, in Italy,
+an agreement with a Greek company.
+The agreement provides that
+the Swedish company will repair some
+machinery owned by the Greek
+company in Hungary.
+Subsequently, the parties disagree
+on which of them is to pay for
+the spare parts needed for the repair.
+One of the parties claims compensation for
+an alleged breach of contract by the other
+party, or one of the parties asserts
+that the whole contract is invalid because
+of fraud committed by the other party.
+And the parties disagree also on
+which law governs these issues.
+Similar problems regarding the designation
+of the applicable law may also arise
+in connection with non-contractual
+obligations, where the alleged liability
+does not arise out of a breach of a
+contract, but is rather based on some kind
+of alleged intentional or negligent act
+causing damage to persons or property.
+The designation of the law governing
+a non-contractual obligation may be of
+crucial importance for deciding such
+methods as the extent of liability and
+the assessment of the damage.
+In the private international
+law of the European Union,
+the designation of the applicable
+law to contractual and
+non-contractual obligations is governed by
+conflict rules found in two regulations.
+Namely, a regulation from 2008 on the law
+applicable to contractual obligations,
+also called the Rome I regulation.
+And a regulation from 2007 on the law
+applicable to non-contractual obligations,
+called the Rome II regulation.
+An important feature of both these
+instruments is that while they
+are binding on the courts of
+the member states only, the law
+specified by them is applied whether or
+not it is the law of a member state.
+They made us read through the application
+of Chinese, Russian or South African law.
+There is no requirement of reciprocity,
+because the law of a foreign country,
+whether or not it is a member state,
+is not applied in the interest
+of that particular country.
+But rather,
+because the EU legislator himself is
+of the view that the application
+of the law deemed to
+have the closest relevant relation
+to the situation is conducive to
+a reasonable resolution of disputes
+having international implications.
+Such application of foreign law
+is therefore in the interest of
+the European Union,
+in particular because it contributes to
+the smooth functioning of
+international commerce.
+The main principle of the Rome I
+regulation on the law applicable to
+contractual obligations is
+the principle of party autonomy.
+A contract is governed by
+the law chosen by the parties.
+The choice may take place at the time
+of contracting or later, and
+it can be explicit or otherwise clearly
+demonstrated by the terms of the contract,
+or by the circumstances of the case.
+With some exceptions, the freedom
+of choice of the parties is not
+limited to legal systems having some
+natural connection with the situation.
+So that, for example, a Swedish and
+a Greek company may agree on subjecting
+their contract to English law, simply
+because they both are familiar with it.
+Surprisingly enough, the parties to
+contracts of international nature
+make relatively seldom use of their
+freedom to choose the applicable law.
+The reasons are manifold, ranging from
+ignorance of private international law
+to reluctance to burden contractual
+negotiations with an additional
+potential cause of disagreement.
+Now, whatever the reason, the limited
+use of party autonomy increases
+the practical importance of
+the Rome I regulations conflict rules
+designating the applicable law in
+the absence of choice by the parties.
+The Rome I regulation contains a number
+of seemingly fixed conflict rules for
+some of the most common types of contract.
+For example, to the extent that
+the applicable law has not been chosen by
+the parties, a contract for the sale
+of goods is governed by the law of
+the country where the seller
+has his habitual residence.
+And the contract for the provision
+of services is governed by the law
+of the country of habitual
+residence of the service provider.
+However, many important and
+frequent contracts,
+ranging from money loans
+to trademark licenses and
+equipment rentals, are not on the list.
+Furthermore, it is not
+uncommon that the contents of
+the same single contract constitute
+a mixture of several types of contract.
+Such as when a contract for
+the sale of equipment includes
+the training of the buyer's staff and
+the license to put the seller's
+trademark on the final product.
+Such so-called mixed contracts
+are governed by the law of the country of
+habitual residence of the party required
+to carry out what the regulation
+calls the characteristic performance,
+meaning the specific performance,
+as opposed to the performance
+consisting of payment of money.
+It is also permitted to deviate
+from these conflict rules,
+where it is clear from all
+the circumstances of the case that
+the contract is manifestly more closely
+connected with another country.
+Now, what has just been said applies
+mainly to business to business contracts.
+The regulation contains also
+special conflict rules for certain
+so-called weak party contracts, such
+as contracts between a businessman and
+a consumer or between an employee and
+his employer, where an unlimited,
+unlimited party autonomy could be
+abused by the stronger party to
+the disadvantage of the weaker party,
+normally the consumer or the employee.
+Therefore the regulation provides that
+the typical consumer contract is normally
+governed by the law of the country where
+the consumer has his habitual residence.
+And that the choice of another law,
+while not invalid in itself,
+must not deprive the consumer of
+the mandatory protection, that is,
+the protection the parties cannot
+derogate from by agreement,
+as provided by the law of his country.
+Similarly, even though an individual
+employment contract is in
+the first place governed by the law chosen
+by the parties, that choice must not
+deprive the employee of the mandatory
+protection he enjoys pursuant to
+the law that would govern the contract if
+the parties had not chosen another law.
+With regard to non-contractual
+obligations, the Rome II regulation gives
+the parties some rather limited space
+to agree on the applicable law.
+But in most cases,
+this is not a realistic, realistic option.
+The main conflict rule of the regulation
+stipulates that the law applicable to
+an obligation arising out of a tort
+is the law of the country in which
+the damage occurs, irrespective
+of the country in which the event
+giving rise to the damage occurred and
+irrespective of the country or
+countries in which the indirect
+consequences of that event occur.
+However, if both the person claim to
+be liable and the person sustaining
+damage have their habitual
+residence in the same country at,
+at the time when the damage occurs,
+the law of that country applies.
+Another exception to the main rule
+concerns those cases where it
+is clear from all the circumstances
+of the case that the tort is
+manifestly more closely connected
+with another country, in particular,
+due to some preexisting relationship
+such as a contract between the parties.
+Regarding certain types of torts,
+the Rome II regulation contains
+special conflict rules
+which prevail over the general conflict
+rules that have just been described.
+One such special conflict rule, for
+instance, deals with the compensation to
+be paid for environmental damage, and
+gives the person seeking compensation
+the right to choose to base his claim
+on the law of the country in which the
+event giving rise to the damage occurred.
+Meaning the law of the country where
+the harm to the environment originates.
+Rather than to rely on the main
+rule referring to the law of
+the country of the resulting damage.
+Both the Rome I and the Rome II
+regulations permit the court dealing with
+the dispute to refuse the application of
+foreign law if such application would
+be manifestly incompatible with the public
+policy of the country of the court.
+For example, a contract for
+a payment of a bribe should, and
+almost certainly would, not be enforced
+by the courts of the EU member states,
+irrespective of what the law
+governing the contract says.
+The application of some of the
+traditional, but to some extent even of
+some of the recent rules of private
+international law, is affected by
+modern technological achievements
+such as the advent of the Internet.
+Some of the jurisdictional and
+conflict rules assume that it's
+possible to ascertain, for example,
+the place of contracting,
+the place of performance of the contract,
+the place of the harmful event, or
+the place of the resulting damage.
+The nature of the Internet has made it
+possible, and in fact quite commonplace,
+to both enter into and
+perform a contract in cyberspace.
+For example, today it is possible to
+conclude a sale of digital goods,
+such as, music, computer games, or
+movies, pay for them, and
+even have them delivered, on the Internet.
+Harmful acts such as defamation or
+copyright infringement can also
+be committed in cyberspace.
+All this constitutes a challenge
+to private international law,
+which has to be adapted, and
+to some extent has already been adapted,
+to our new digital world.
+Within the framework
+of this short lecture,
+it is of course impossible
+to enumerate and
+describe all private international
+rules enacted by the European Union.
+These rules covering a great variety of
+issues of both family and business law,
+fill, today, hundreds of pages in the
+Official Journal of the European Union.
+And are often very detailed,
+containing many exceptions and
+exceptions to exceptions.
+In addition to the voluminous regulations,
+such as those enumerated in my first
+lecture, many scattered rules of private
+international law relevance are found in
+various directives dealing mainly with the
+approximation of substantive legislation.
+For example, in the field of consumer law.
+Also, the Treaty on the Functioning of
+the European Union, which is itself
+directly applicable in the court of
+the member states, contains some
+provisions with direct impact on
+private international law issues.
+For example, the articles prohibiting all
+discrimination on grounds of nationality.
+Or protecting the freedom of movement of
+persons, goods, services, and capital.
+One may, for example, raise the question,
+of whether a non-recognition of
+a same-sex marriage celebrated in another
+member state would not be incompatible
+with the free movement of persons,
+as it would indirectly hinder
+the persons involved from moving.
+Or whether a non-recognition of a chattel
+mortgage created in another member state
+would not indirectly create an unlawful
+obstacle to the free movement of goods.
+Private international law has
+traditionally been considered a small,
+marginal subject that is of
+interest only to a small group of
+lawyers engaged in
+international transactions.
+The creation of the common internal
+European market and the enactment of
+voluminous EU legislation in this field
+have changed the situation dramatically.
+The negative side of this development
+is that it has become very difficult,
+if not practically impossible, for
+judges and practicing lawyers to master
+the subject and apply the rules correctly
+without the assistance by specialists.
+Unfortunately, in the law schools'
+curricula in many of the member states,
+private international law is not found
+among the required compulsory subjects.
+And it is offered,
+if offered at all, merely as an elective
+subject taken by a minority of students.
+I'm happy and proud to say that at
+my university, this is not the case.
+And that all our students and
+law graduates are made familiar with at
+least the basic features of
+private international law,
+including of course, the private
+international law of the European Union.
+[MUSIC]
+

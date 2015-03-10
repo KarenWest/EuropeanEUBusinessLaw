@@ -1,0 +1,324 @@
+Welcome to this lecture on intellectual
+property law and information technology.
+In today's society,
+everyone has a relation to the Internet.
+This is not a lesson on Internet
+history or Internet technology, but
+it is important to remember that
+the modern commercialized version of
+the Internet is a quite recent phenomenon,
+and that intellectual property law,
+in general, was developed long before
+the Internet came to existence.
+Simultaneously, it is important to
+note that intellectual property law
+has proved to have a strong ability
+to adapt to new technology.
+Not the least copyright
+that has managed to survive
+several groundbreaking technological
+leaps during the last 100 years.
+For instance, distance communication
+by phone, radio, and television.
+Reproduction, by way of photos and
+cameras, send recordings and
+moving pictures.
+Thus, it is likely that
+intellectual property law will
+survive the challenges
+posed by the Internet.
+But there is a need for adaptation,
+and that is an ongoing process.
+A first question is how the Internet
+poses problems to IP rights?
+It may be self evident, but it is never
+the less worth while to reflect on.
+A starting point is a reminder that there
+is an almost exponential increase in
+value as to IP rights.
+And that these rights
+are extremely well suited to fit
+the need of the information society.
+This increase in value leads
+to an increase in interest and
+more attentive proprietors.
+Simultaneously, there is an increased
+need to use, and new means to use and
+share creations, and
+this equals potential problems.
+The second reflection will be
+the fact that there may be
+problematic situations when territorial
+intellectual property rights
+are being used in a borderless
+environment, like the Internet.
+Among other things, this means
+that every day transactions may be
+international transactions with inevitable
+questions asked to jurisdiction and
+choice of law as a result.
+A third problematic feature is the fact
+that digital technology has made it
+possible to reproduce at low,
+on the verge of no cost,
+with no loss in quality, or
+even with improved quality,
+as may be the case when a digital
+music file is copied and enhanced.
+A fourth feature relates to technology
+development and so called convergence.
+This is a general and modern problem in
+law that may be illustrated by the use
+of a smartphone, that are not only
+advised for distance communication.
+But also a computer, a computer
+game console, a television set, and
+a radio, to mention only some
+of their potential uses.
+This is, for obvious reasons,
+a major improvement for the user, but
+it poses problems for the legislature
+who needs to rethink and adjust.
+It is, in relation to the example, not
+relevant to have separate legislations for
+radio and television, and another for
+digital communication when all
+technologies appear in the same device.
+Problems with convergence affect in
+different ways the possibility to
+adopt legislation to
+intellectual property rights.
+Perhaps more important than a realistic
+perception as to the threats that
+IT may pose, is an awareness as to
+the possibilities that IT bring forward.
+Many of the problematic features
+of the Internet may as well be
+framed as positive aspects.
+New means to share creations
+is not only a problem but
+indeed a possibility to access and
+share culture.
+It also provides
+a completely new arena for
+creative achievements and
+collaborative creations.
+In relation to this development,
+the evolution is in an initial stage.
+The sun has just begun rising.
+It is impossible to predict what
+new features the future will bring.
+Just some years ago,
+no one had heard of Google, Facebook or
+Twitter, and no one had used Spotify,
+Netflix, or iTunes.
+The only thing that may be
+stated with certainity is that
+actors that adapt to development, and that
+learn to take advantage of technology,
+may prove to be really successful.
+More specifically,
+as to intellectual property rights, and
+information technology, there are several
+issues that may be highlighted.
+This course is not the place for
+an in depth discussion.
+But, at the same time it would have been
+deceptive not to draw your attention to
+some topical issues, in the intersection
+between information technology and
+intellectual property rights.
+Web 2.0 is an expression that
+emphasizes that the Internet is no
+longer a static information platform,
+but an interactive social environment,
+where a service providers and users are
+interacting in the creation of content.
+The most obvious examples of this
+development are social media, for
+instance, Facebook,
+Instagram, and Twitter.
+Intellectual property rights
+becomes relevant for instance in
+relation to rights to photos that users
+are posting on social media sites.
+Another example is the collaborative
+creation of Wikipedia.
+A genius service, but
+also a service where traditional
+copyright is almost impossible to apply.
+Jurisdiction and choice of law becomes
+relevant when cross border problems are to
+be solved by courts.
+For instance, disputes that
+relates to more than one country.
+There are separate lectures
+on jurisdiction and
+choice of law within this course,
+so I will not develop this.
+However, it is important to note that
+many of today's court cases on these
+points surrounds intellectual
+property rights conflicts.
+For instance, file sharing, cross-border
+use of databases and keyword advertising.
+Consequently, there is a close
+relationship between intellectual property
+law and private international law.
+In the realm of copyright,
+there is a protection for
+computer programs,
+including computer games and
+databases, both of which are used to
+a large extent in cross-border networks.
+Consequently there are several
+decisions from the European Court of
+Justice that deals with computer
+programs and databases.
+Some of the issues that have been
+discussed are how a computer program is to
+be protected.
+And when the use of a database
+in one jurisdiction may lead to
+infringing effect in another.
+One additional topical issue is
+keyword advertising, which is smart,
+directed advertising that is
+linked to a specific search term
+used in different search engines.
+The smartness is that this provides
+users with unique possibilities to
+differentiate advertising.
+If you are selling spare parts for
+cars, you may link your ads to different
+relevant search words, for instance car.
+And your ad will pop up when someone
+is using that keyword to search for
+information about cars.
+The user is likely to be more
+than average interested in cars.
+And the advertiser will only
+have to pay in relation to
+the impact of the advertising.
+So, at the end of the day,
+everyone is winning this game.
+However, problems arise when someone is
+using the technology to link
+ads to protected trademarks.
+One famous case from the Court
+of Justice dealt with such a use
+of Louis Vuitton's famous trademarks.
+And there are several cases on
+keyword advertising from the court of
+justice from other countries in Europe and
+around the world.
+Free speech and access to knowledge and
+privacy are in several instances regarded
+as fundamental adult human rights,
+protected on the highest level.
+Simultaneously, but perhaps not equally
+clear copyrights are protected.
+So when intellectual properties are being
+infringed on the Internet more and
+more often fundamental rights are being
+used as arguments, both for and
+against IP rights protection.
+I will not develop the argument
+during this lecture, but
+I would like to emphasize that there is
+an ongoing debate that is nourished in
+the realm of fundamental rights,
+that deals with the use of intellectual
+property rights on the Internet.
+One example out of several, is when
+Internet service providers refuse to
+reveal identity of file sharers
+that have been using their service,
+with the augment that
+the information is person and
+that an exposure of information
+would infringe privacy.
+Simultaneously, proprietors are arguing
+that information should be revealed due to
+the fact that their property
+rights are being infringed, and
+that their fundamental property
+rights should prevail.
+In the midst of this conflict
+you are likely to find
+an Internet service provider.
+So at the end of the day, internet service
+provider liability maybe regarded as
+the most topical issue in relation to
+IP rights and information technology.
+As is perhaps evident from
+the brief discussion so
+far, there are several
+potential conflicts.
+Any casts already been
+stated that proprietors of
+today are more attentive to infringements.
+One major problem is lack
+of effective enforcement.
+Without going into further details
+as to enforcement, it, it suffers to
+conclude that there are problems
+in identifying infringers in open,
+occasionally, anonymous environments.
+The single user, for
+instance, the uploader,
+the advertiser, the downloader,
+may prove to be impossible to identify.
+So then it's much easier to
+identify the service that a single
+actors has been using in order to perform
+their potentially infringing acts.
+Considering this, it is not far fetched
+to realize that proprietors may be
+interested in Internet
+service provider liability.
+And to what extent ISP's may be regarded
+as contributors to infringements.
+Due to the fact that they are facilitating
+infringements by providing the necessary
+service for the primary act,
+the primary infringement.
+This is complicated law and
+I will not develop this further.
+It is, however, important to be aware
+of the development in this area of law.
+And the fact that this impossible to
+escape the question of ISP liability, if
+intellect property rights and information
+technology issues are to be investigated.
+One conclusion in relation to this
+is that the last word has not
+been uttered on ISB liability.
+And there are upcoming issues.
+Many of the problems that
+we have identified so
+far deals with ISP liability.
+Keyword advertising, the right to be
+forgotten and privacy issues in general.
+This was a brief overview of issues,
+an introduction to
+a theme that would suffice for
+one course on its own or even several.
+You will be able to find plenty of
+material regarding this information
+technology and intellectual property,
+and much is available on the Internet.
+The point here is not to go into
+details but to show a development.
+As technology is converging,
+law is becoming more and more complex.
+And it is no longer possible to separate
+one area from other areas of law.
+The Internet brings it all together,
+in areas that have been separated.
+One example would be copyright and
+privacy are now closely linked in
+an information technology context.
+If this lecture has managed to emphasize
+this relation, I would be a happy teacher.
+

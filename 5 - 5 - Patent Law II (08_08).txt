@@ -1,0 +1,180 @@
+As we learned in the previous lecture,
+harmonization of EU patent law
+only consists of one directive,
+the directive on biotech inventions.
+In spite of failure of up until now,
+to establish a unity right within the EU.
+National patent law has
+obtained a rather high level of
+adjustment to the European
+patent convention.
+I will therefore concentrate this lecture
+on the European patent convention.
+The grant and procedure for
+a European patent is completely
+regulated by European Patent Convention
+and its Implementing Regulations.
+It's an Ex Parte Administrative procedure,
+which ends up with a grant or
+refusal of a patent.
+Applications are filed either
+directly to the EPO, or
+by filing via the PCT with
+the EPO as one designated office.
+The first stage of the procedure comprises
+an examination of filing, formalities
+examination, preparation of the European
+Search report, and the preliminary opinion
+of possibility and publication of
+the application, and the search report.
+And the second stage comprises
+the substantive examination and grant.
+The application must contain a request for
+the grant of European patent.
+A description of the invention, one or
+more claims,
+drawings referring to the description.
+Or the claims and an abstract.
+The application must also disclose the
+invention in a manner sufficiently clear
+and complete, for it to be carried
+out by a person skilled in the art.
+After the granting, any third
+party may file an opposition with
+the EPO against a granted
+patent within nine months.
+As I previously said, one should be aware
+of that the criterias for patentability
+has been extensively harmonized,
+given the normative influence of the EPC.
+Let us now see if
+our company's product can be patentable
+under the European Patent Convention.
+The first task is to make sure that a
+company's product satisfy as an invention.
+An invention is the discovery or
+creation or a new material, or
+product, a new process,
+a new use for any existing material.
+Or any improvements of any of these.
+And what matters is a precedence
+of technical character.
+European patent can be granted
+in any field of technology,
+if it fulfills the requirements.
+Some subject matters are not
+regarded as patentable invention.
+And that is discoveries, scientific
+theories, mathem, mathematical methods,
+aesthetic creations, schemes, rules,
+methods for performing mental acts,
+playing games or doing business,
+and programs for computers.
+And even presentations of information.
+The requirements in Article 52 EPC
+states that the patentable invention
+shall possess novelty, inventive step,
+and industrial applicability.
+An invention is considered
+industrial applicable,
+if it can be produced or
+utilized in any kind of industry.
+Through requirement,
+novelty is quite strict.
+To be novel,
+the invention must be absolutely new, and
+it can therefore not form part of
+the world-wide state of the art.
+It must be world-wide new.
+Everything made available to the public by
+means of written or oral description, or
+by use or in any other way,
+before the date of filing of the European
+patent is not considered new.
+An invention shall be considered
+as involving an inventive step.
+If, having regard to the state of the art,
+it's not obvious to a person
+skilled in the art.
+The person skilled in the art should be
+presumed to be a skilled practitioner
+in the relevant field of technology, who
+possesses average knowledge and ability,
+and is aware of what was common general
+knowledge in the art at a relevant date.
+In order to assess inventive step,
+EPO have developed a"
+problem-and-solution" approach.
+The problem and solution approach
+contains of three main stages,
+which is one,
+determining the closest prior art,
+two, establishing the objective
+technical problem to be solved.
+And three,
+considering whether not the claimed
+invention starting from
+the closest prior art and
+the objective technical problem, would
+have been obvious to the skilled person.
+Anyone who files a patent application
+in a country that is, a signatory
+of the Paris convention, has to write
+to within 12 month, file an identical
+application in any other country, and
+claim priority from the first application.
+The first application is,
+the basis of the right to priority.
+In terms of novelty, priority means
+that the company's later application
+is regarded as having been filed at
+the same time as the first application.
+A patent cannot be granted if
+the invention is excluded from
+patentability according to
+the European Patent Convention.
+The following inventions
+are excluded from patentability.
+Inventions where the commercial
+exploitation would be contrary to
+"ordre public" or morality.
+Plant and animal varieties are essentially
+bio, biological processes for
+the production of plant or animals.
+This provision shall not apply
+to microbiological processes, or
+the products thereof.
+Methods for treatment of the human or
+animal body by surgery or
+therapy, and di-,
+diagnostic methods practiced
+on the human or animal body.
+This provision shall
+not apply to products.
+In particular substances or compositions
+for use in any of these methods.
+If the patent is granted,
+the patent duration will be 20 years,
+calculated from the application and
+subject to annual fees.
+A prolongation of the time is possible.
+If the basis of, on the basis of
+the EU Council Regulation number 469
+from 2009, and number 1610 from 1996.
+The supplementary protection
+can be at maximum five years.
+Limitations and
+exceptions are not addressed in the EPC.
+To sum up, if the company intends to
+apply for a patent in just a few European
+countries, it may be better to choose the
+national route and file the application at
+the IP offices in the countries for
+which the company are seeking protection.
+Otherwise the company can try
+to obtain patent protection in
+Europe at EPO upon one single application.
+And if it's granted,
+it gives them a European patent which
+contains a bundle of national patents.
+

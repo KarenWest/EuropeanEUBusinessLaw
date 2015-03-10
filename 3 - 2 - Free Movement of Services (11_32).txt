@@ -1,0 +1,274 @@
+[MUSIC]
+Hello, and
+welcome back to the Lund MOOC in EU law.
+In this lecture, we are going to talk
+about one of the original freedoms,
+the free movement of services.
+There are four freedoms which
+have formed the basis of EU law.
+The free movement of workers and
+services, the freedom of establishment,
+and the free movement of capital.
+The free movement of services is
+certainly one of the more important.
+As usual I would like you to take
+a look at the relevant provision in
+the treaty before we proceed.
+So please read through
+Articles 56 to 62 TFEU.
+Don't miss out the reference
+to Articles 51 to 54 TFEU.
+You should take a look at those too.
+There are many kinds of services.
+We live in a post-industrial society and
+services are more and
+more important in our economy.
+As a result, the case law from the court
+of justice covers a great number of
+different situations.
+Actually, the provisions on
+the free movement of services have
+spawned a number of
+separate fields in EU law.
+Such fields are, the posting of
+workers and transporter banking.
+The financial market will be presented
+in another lecture in this MOOT.
+I refer you to that lecture for
+a good overview how the free movement
+of services work in a specific field.
+There are also important exceptions.
+I mention one right here.
+As you can see from Article 58(1) TFEU the
+freedom to provide services in the field
+of transport is governed by
+the provisions relating to transport.
+This covers rail, road and waterways but
+not air transport which falls under
+the general rules of the treaties.
+The provisions of the free movement of
+services not only apply to the action of
+public authorities, but also associations
+or organizations not governed by public
+law, where they lay down collective rules
+in the exercise of their legal autonomy.
+This is particularly true where
+services are provided across
+borders without the provider or
+the recipient moving.
+The notion of services is wide,
+but also of a residuary nature.
+The notion of services covers services
+not governed by other freedoms,
+in order to ensure that all economic
+activity falls within the scope of
+the fundamental freedoms.
+So, let's look at
+the provisions of the treaties.
+What is short is sweet and
+Article 56 TFEU is one
+of those short provisions that carry an
+entire universe over two short paragraphs.
+According to Article 56(1) TFEU,
+restrictions on freedom to
+provide services within the Union shall
+be prohibited in respect to nationals of
+member states who are established in
+a member state other than that for
+the person from which, for
+whom the services are intended.
+According to Article 56(2) TFEU
+rules concerning nationals of
+third country nationals who provide
+services and who are established within
+the union can be introduced by
+the European Parliament and
+the Council under the ordinary
+legislative procedure.
+Here we see the importance of
+being a national of the EU.
+Moreover, if you're not
+a national of the EU,
+at least you need to be
+established in the EU.
+One important aspect of article 56
+TFEU is the cross-border element.
+This means not only the provision of
+services but also to enjoy services.
+Thus if I provide a service
+to another country or
+if I go to another country
+to enjoy a service.
+These both situations
+are covered by the treaty.
+It does not mean that we have to
+physically move across borders,
+if I stay in my country and
+you stay in yours.
+And the only thing moving across the
+border is a service that I provide to you.
+This in fact is enough to
+establish a cross-border element.
+It may seem as if this covers everything.
+That is not true.
+Many daily transactions today are still
+pure internal transactions, and
+in such a situation
+the treaties do not apply
+because the cross-border
+element is simply not there.
+So, what is it we talk about
+when we talk about services.
+The notion of services is
+defined in article 57 TFEU.
+Services are normally provided for
+[INAUDIBLE] in so
+far as they are not governed by
+the provisions relating to freedom of
+movement of, for goods,
+capital, and persons.
+The provision specifically lists
+activities of an industrial character,
+activities of a commercial character,
+activities of craftsmen and
+activities of the professions.
+Remuneration includes
+services provided free of
+charge if they are normally remunerated.
+They do not have to be paid for
+by the person for
+whom they are perfored, performed.
+They have to be paid by private money.
+This leads to very difficult balancing
+acts when it concerns public
+services such as education,
+medical services, and public housing.
+Gambling is also considered a service,
+even if the proceeds would go
+straight to the government's pocket.
+Some aspects may be covered by
+another fundamental freedom due to
+the residual nature of
+the free movement of services.
+According to the third paragraph
+of article 57 TFEU, that person
+providing a service may temporarily
+provide a service in another member state
+on the same condition as those
+imposed by the state on its nationals.
+This is depending on the regularity,
+periodicity, or continuity of the service.
+A person moving to another member
+state falls under the freedom of
+establishment if he intends
+to set up shop permanently.
+But how do we achieve this?
+Well by harmonization.
+These two provisions set out the rules for
+harmonization through directives.
+It was understood very early on that
+directives were important tools in order
+to create the level playing
+field by removing ob,
+obstacles to trade and red tape.
+For instance, the legal profession is
+subject to a limited harmonization for
+the recognition of
+professional qualifications.
+A lawyer member of the bar in one
+member State can exercise his
+profession in another member State and
+provide his legal services.
+If a service has been
+harmonized through a directive,
+it is the directive that sets
+the criteria for the assessment.
+Actually, if there is a directive,
+it takes precedence as Les Speciales
+over the treaty provisions.
+The principle of non-discrimination is one
+of the fundamental principles in EU law.
+We have been through the basics of this
+principle during the introductory part
+of this course.
+Actually, instead of repeating it here,
+if you think that you need a rehearsal of
+that principle, do not hesitate
+to go back and watch it again.
+When you listened to that lecture,
+you may have noticed that it
+was linked heavily to general
+abstract principles of EU law.
+As a matter of fact, even though
+the principal remains the same,
+article 61 TFEU has Les Speciales,
+takes precedence over article 18 TFEU.
+So if it concerns discrimination in
+the context of the provision of services,
+it's article 56 and 61 TFEU that apply and
+not article 18 TFEU.
+That's easy to remember, right?
+But what happens if a member state feels
+the need to restrict the exercise of
+the free movement of services, or
+otherwise maintain
+a discriminatory practice?
+Sometimes there are situations where
+a restriction on the free movement of
+services may be justified.
+Article 62 TFEU refers
+back to articles 51 to
+54 TFEU which concern
+the right of establishment.
+According to these provisions,
+a restriction to the free movement of
+services, may be justified on
+grounds of public authority,
+public policy, public security,
+and public health.
+Objectives of an economic nature can
+never justify such a restriction.
+Just as in the other freedoms
+the ECJ has opened up
+the possibility that the restriction can
+be justified based on the rule of reason.
+Such an example is the case Binsbergen
+which you find in the course materials.
+The test goes a bit like this.
+First, the restriction must not be
+subject to prior harmonization by EU law.
+Second, it must concern a public interest.
+There are many interests that have been
+assessed by the ECJ in this context.
+They include consumer protection,
+fair trading,
+combating fraud, protection of an official
+language, and many, many others.
+Third, the national rule must
+apply without distinction.
+This is an expression of the principles
+of nondiscrimination and equality.
+Fourth and finally,
+the measure must not be disproportionate.
+The measure must be appropriate,
+necessary, and
+may not go further than
+the situation requires.
+I refer to the lecture on proportionality
+as a fundamental principle,
+also available in this MOOC.
+So dear watchers this was
+the freedom to provide services.
+There are many aspects that a short
+lecture like this can not cover in
+detail such as the labor law
+aspect of this freedom, but
+it will appear in more dedicated lectures.
+Make sure to follow those.
+And don't forget to come back and
+watch these lectures again if you need to
+refresh your memory or just simply
+want to tie the threads together.
+Thank you for tuning in and
+see you soon again.
+

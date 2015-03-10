@@ -1,0 +1,141 @@
+[MUSIC]
+Welcome back.
+In this lecture, we're going to
+look at European Union case law.
+I will show you how to search for the
+cases, explain the numbers of the cases,
+and how to search within the document.
+Let's look at a case that you
+will read in one of the courses,
+C-341/05, a libel case.
+Let me start by explaining
+the case number.
+The letter tells us it's a case
+from the Court of Justice,
+the number 341 is the serial number,
+and finally, we have the year.
+The number is given when
+it comes to the court so
+the year is when the case started.
+If you find a T or
+an F in front of the number,
+it is a case from either the General
+court or the Civil Service Tribunal.
+Quite recently, a new system to cite and
+to number the cases has been introduced.
+ECLI is the new
+European Case Law Identifier.
+The ECLI number is a number that will
+include both European and National courts
+and it is supposed to improve
+search facilities for case law.
+The Laval case has the following
+number: ECLI, EU:C:2007:809.
+First comes the country code,
+then code of the court that rendered the
+judgement, the year of the decision, and
+finally the sequential number.
+This sequential number is in a format
+that is decided upon each member state.
+It could consist of up to
+25 alphanumeric characters.
+So let's search for the case.
+I suggest you use the database
+that you find on the website for
+the Court of Justice
+of the European Union.
+I enter the case number
+in the first field.
+You can see written beside the field
+in what way you should write.
+You will receive the matches
+in a list of results by case.
+You could also sort the matches
+by documents if you prefer.
+First of all you can see that it
+is a judgment of the court sitting
+at the Grand Chamber,
+the 18th of December 2007.
+Below, you'll find the parties.
+Then comes a short description
+of the case with keywords and
+relevant directives and articles.
+The judgments and opinions used to be
+published in the Reports of Cases.
+You can see that this
+case was published in
+Reports of Cases in 2007,
+part one, page 11,767.
+Since 2012,
+the printed version of Reports of
+Cases has been replaced
+by an electronic version.
+It has been the tradition to refer
+to the reports of cases, and
+I'm sure you will meet many
+references from the reports.
+But today the recommendation is another.
+And the new way to refer to a case is to a
+combination of the usual name of the case,
+the number in the register case number,
+ECLI number and the paragraph.
+You will of course find
+the judgments here.
+And you will also find the opinion
+from the advocate general.
+This is a document where you can find a
+legal analysis of the case which has been
+presented to the court independently by
+the advocate general before the judgment.
+Many times you can find much more
+information in the opinion than in
+the judgment.
+This could be useful information if the
+court decides to follow the imp, opinion.
+If you would like,
+you can access more information
+by clicking on the small symbol.
+A lot of information is collected here.
+Further down you can find citations
+of case law or legislation,
+dates of importance, references
+like notes on academic writings.
+As this case has been discussed a lot,
+there are a lot of references to the case.
+Finally, you find procedural
+analysis information,
+like the names of the judges, etc.
+As you can see, there is a lot of
+information about a judgement.
+Many times,
+you only want to get access to the case.
+So let's end up with looking at how you
+find the different parts in the case.
+Depending on where you take the case,
+the document will look differently.
+In the report of cases,
+which is the official version,
+it starts with the presentation of the
+case, parties, dates and peoples involved.
+Then, comes the grounds,
+consisting of the judgment, legal context,
+the dispute in the main proceedings and
+questions referred.
+In the end, you'll find the cost but
+also the operative part.
+The sections in the grounds are numbered,
+referred to as paragraphs.
+The operative parts are also numbered
+starting again on number one.
+In EUR-Lex, you will find
+an added summary of judgement in
+the beginning of the document.
+I suggest you go and search yourselves
+right now for the Laval case right now.
+Start in the database Curia website for
+the Court of Jus,
+Justice of the European Union.
+You'll find the database in the link list.
+Thanks for listening and see you later.
+[MUSIC]
+

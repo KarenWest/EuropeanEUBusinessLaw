@@ -1,0 +1,278 @@
+[MUSIC]
+Hello and welcome back.
+In this lecture we are going to look at
+the procedural aspects of state aid law,
+what is commonly called state aid control.
+This is also part of state aid
+law where political aspects of
+the topic can be illustrated.
+Before we go into the substance
+of this lecture I just want to
+say that I hope you have familiarized
+yourself with article 180 FEU and
+with regulation 659 999 also referred
+to as the procedural regulation.
+If you haven't had the time,
+I suggest that you look
+at least at article 108 TFEU to
+get an overview of this lecture.
+Before we go into the details,
+let me give you a brief outline on how
+the state aid control system is set up.
+The purpose of state aid control,
+as we noted in the earlier lectures, is to
+control state interventions in the market.
+This system is supervised
+by the European Commission.
+Only the commission can
+declare a state aid
+measure compatible with
+the internal market.
+The commission cooperates
+with the member states.
+The member states must notify state
+aid measures to the commission so
+that the commission can make its
+assessment whether the aid is
+compatible with the internal market, or
+whether the measure is an aid at all.
+Pending this assessment, the member
+state may not put the aid into effect.
+This is the so-called
+stand-still obligation.
+The relationship between the commission
+and the member states is an exclusive one.
+And beneficiaries and their competitors do
+not play a direct role in that procedure.
+However, beneficiaries and
+competitors play an important indirect
+role as sources of information.
+Individuals in undertakings
+can also submit complaints to
+the commission if they know or
+suspect that somebody receives state aid.
+Moreover they can also use national
+courts to stop a member state
+from paying state aid until the commission
+has made its assessment of the measure.
+This in short is how
+the system is designed.
+Now let's take a closer look
+at how the system works.
+As I said in the introduction
+the member state must notify new
+state aid to the commission.
+This means first and
+foremost that aid must be new.
+If it concerns an existing aid
+measure age which has already been
+cleared by the commission the measure
+does not have to be notified.
+More importantly if it
+concerns existing aid
+the stand still clause in article
+108(3) TFEU may not apply.
+The control of existing aid is
+regulated through article 181 TFEU and
+specified in the procedural regulation.
+According to the treaty the commission
+shall in cooperation with member
+states keep under constant review
+all systems of aid existing there.
+It's only if such an existing aid
+is changed in its substance that
+the stand-still obligation in
+article 108(3) TFEU applies.
+And the aid must then be notified
+to the commission as new aid.
+This means that an aid measure which
+the member state wishes to introduce or
+any substantive change that
+the member state wishes to
+make to an existing aid scheme must
+be notified to the commission.
+You'll find this principle in the first
+sentence of article 108(3) TFEU.
+However, there are exceptions.
+Because a strict application of these
+rules would be prohibitively disruptive in
+the economy, there are a number of
+types of aid that the commission has
+declared are presumed compatible
+with the internal market and
+therefore do not need to be notified.
+These types of aid
+are defined through block
+exemptions which are introduced through
+regulations adopted by the commission.
+The block exemptions contain
+very detailed rules on how and
+what aid the commission would accept.
+They cover aid such as environmental aid,
+agricultural aid, and
+soon possibly infrastructure aid.
+So, in short, new aid must be
+notified to the commission unless
+it is covered by a block exemption.
+The stand-still obligation is a very
+specific feature of state aid control.
+Before the commission has declared an aid
+compatible with the internal market,
+the aid must not be put into force.
+This is regulated by the last
+sentence of Article 108(3) TFEU.
+According to which a member state may
+not put the proposed measure into effect
+until the con, control procedure
+has resulted in a final decision.
+The types of decision which
+are considered final is regulated in
+the procedural regulation.
+Article 108(3) TFEU has direct effect.
+This means that the provision can
+be invoked before national courts.
+The court of justice has emphasized
+that national courts must be
+able to prevent the member state
+from putting a measure into effect
+if the commission has
+not cleared the measure.
+If they have questions they can always
+refer the case to the court of justice for
+a preliminary ruling
+under article 267 TFEU.
+This is also the case if
+the measure has not been notified.
+Many member states failed to report
+all their new aid measures and
+changes to existing aid
+measures to the commission.
+The procedure in article
+108(3) TFEU is also meant
+to apply to these categories of aid.
+So, in short, if a measure constitutes
+state aid in the meaning of article 107-1
+TFEU, it must not be put into effect until
+the commission has made its assessment.
+National courts may decide
+to enforce this prohibition.
+Now let us look at the assessment
+the commission makes and
+the procedure linked to that assessment.
+In another lecture you have been told
+about the criteria and the conditions
+under which the commission can declare an
+aid compatible with the internal market.
+Using articles 107(2), 107(3),
+and 106 TFEU here we are going
+to focus on the procedural aspect.
+The foundations for the procedure are
+found in article 108(3) and 108(2) TFEU.
+I mention them in reverse order
+because that is how they apply.
+According to the middle sentence
+of article 108(3) TFEU after it
+has received a notification and if it has
+doubts whether the aid may be compatible
+with the internal market, the commission
+shall initiate the procedure provided for
+in article 108(2) TFEU.
+This is an obligation.
+A decision not to open the formal
+investigation procedure can be
+challenged before the general court.
+Now, article 108(2) TFEU.
+Mainly states that the member
+state concerned must be allowed to
+submit comments.
+The details of the procedure are laid
+down in the procedural regulation.
+Basically, the procedure looks like this.
+The decision to open the formal
+investigation procedure is published in
+the official journal of the European Union
+with an invitation to submit comments.
+Then the member state and
+any other interested party can submit
+their comments to the commission.
+The commission then usually
+goes a second round or
+more with the member state concerned and
+then issues a final decision.
+During the procedure the commission
+may issue a number of
+procedural injunctions to ensure the
+corporation or the member state concerned.
+There are three types of final
+decision that the commission can
+issue at the end of the investigation.
+It's a positive, a conditional,
+or a negative decision.
+A positive decision means that
+the aid is declared compatible with
+internal market and
+can be put into effect.
+A conditional decision means that the aid
+is declared compatible on the condition
+that the member state concerned takes
+certain measures to adapt it so
+that the commission can accept it.
+Finally, the negative decision
+means that the aid is
+declared incompatible
+with the internal market.
+This aid must not be put into effect and
+if aid has already been paid,
+it must be recovered from the recipients.
+Recovery is mandatory in such a situation.
+It's only if it's absolutely
+impossible to recover the aid that
+the member state may
+escape this obligation.
+If it fails to do,
+the commission can open an infringement
+proceeding under Article 108(2) TFEU.
+If the commission takes a decision not to
+open the formal investigation procedure or
+takes a negative, conditional,
+or even positive final decision,
+the decision can be appealed to
+the general court of the EU.
+The court will make an assessment
+of the law as well as the facts,
+but will leave the assessment of
+complex economic assessments largely to
+the discretion of the commission.
+An appeal can be brought by a member
+state or by a party concerned.
+There is ample case law on who may or
+may not be considered concerned.
+Beneficiaries, for instance,
+are generally considered to be concerned,
+while their competitors find
+themselves in a gray zone.
+After a judgement of the general
+court this can be appealed to
+the Court of Justice.
+The ECJ does not make a second
+assessment of the facts but
+only makes a control of the legality
+of the judgement of the general court.
+If the appeal is successful, the case may
+be referred back to the general court
+unless the ECJ has enough information
+to decide the case itself.
+The full procedure takes many years.
+Often the final judgement at
+the end of the chain comes up
+to five years after the original
+measure was taken by the member state.
+So, to conclude this odyssey
+through state aid procedure,
+I hope that you have gotten a general idea
+about the system of state aid control and
+the procedure that comes with it.
+Thank you for tuning in and
+see you soon again.
+[SOUND]
+

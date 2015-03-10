@@ -1,0 +1,207 @@
+[MUSIC]
+We will start this section
+on fundamental principles by
+talking about those principles
+that determine what the EU can do.
+What competences it has.
+The principles that are key here
+are the principle of conferred powers,
+the principle of subsidiarity and
+the principle of proportionality.
+I will deal with the first two
+principles in this lecture.
+There will be a separate lecture on
+the principle of proportionality.
+The principle of conferred powers
+is set out in Article 5 TEU.
+Under this principle the EU can
+only act where the member states,
+through the treaties,
+confer a power on it to act.
+And then only in order to achieve one
+of the objectives which the member
+states specified in the treaties.
+The EU has no competence which is
+independent of that conferred on it
+by the member states.
+The treaties confer three different
+categories of competences.
+In some areas such as for
+example, the customs union
+the EU has exclusive competence.
+This means that in these areas
+only the EU can legislate and
+member states have absolutely no
+competence to introduce their own laws.
+In other areas such as culture or tourism
+the Union has supporting competence.
+Here the Union cannot legislate
+to harmonize the laws of
+the member states but is can act in
+order to support, coordinate, or
+compliment the actions
+of the member states.
+But in many of the areas
+that are relevant for
+the topics covered in this course such
+as the internal market, the environment,
+consumer protection and social policy,
+the union has shared competence.
+Shared does not mean that the union and
+the member states may both legislate
+to regulate a particular area.
+It means that the member states have
+competence to legislate to the extent that
+the union has not
+exercised its competence.
+As soon as the union exercises
+its competences and legislates to
+regulate a particular area the member
+states no longer have competence to do so.
+Any competences not conferred on
+the Union by the treaties remain with
+the member states.
+While this may seem clear-cut, we need
+to remember that the treaties set out
+the competences of the EU in
+very broad and general terms.
+The best example of this
+is Article 114 TFEU.
+This gives the Union the power
+to adopt measures for
+the approximation of laws which have,
+as their object, the establishment and
+functioning of the internal market.
+This has been interpreted by the court
+as meaning that any measures that is
+genuinely intended to remove any actual or
+even
+potential obstacles to the internal market
+can fall within the competence of the EU.
+Let's give a concrete example.
+The EU introduced a measure
+that prohibited the sale of
+oral tobacco products
+such as Swedish Snus.
+A manufacturer of Snus
+challenged the legality of this
+measure on the grounds that the treaty
+did not confer on the Union a power to
+legislate in order to
+protect public health.
+The European Court of Justice held that
+the objective of this measure was not
+public health but the establishment and
+function of the internal market.
+How can a prohibition on the sale of
+a product be considered a measure which
+has its object, the establishment and
+functioning of the market?
+If you prohibit the sale of a product
+there will be no market at all.
+The answer that the court gave is that
+banning the use of one particular product
+across the Union was necessary to ensure
+the functioning of the internal market for
+tobacco products in general.
+The courts saw there were already some
+countries that had introduced national
+laws regulating the sale of Snus and
+others considering such measures.
+This would lead to differences
+between national tobacco markets.
+And such differences could pro,
+potentially create barriers
+in the internal market.
+So, to remove the risk of such barriers it
+was necessary to introduce common rules.
+Of course, in introducing common
+rules the Union had two options.
+It could introduce common rules that
+deregulated the sale of tobacco products.
+Or it could introduce rules that regulated
+tobacco products quite strictly.
+Given that one of the objectives of the
+Union is the promotion of a high level of
+public health,
+then it made sense to choose the option
+that would achieve that objective.
+So here we are.
+The EU did not have the competence
+to legislate in order to
+protect public health.
+However, because it has the competence
+to legislate in order to
+ensure the functioning of the internal
+market, it could introduce measures
+to harmonize national laws,
+which in effect, protected public health.
+And this type of reasoning has
+been used to justify many of
+the most controversial
+measures introduced by the EU.
+So, the principle of conferral, while it
+may appear to grant the Union a very clear
+delineated set of competence, is in fact
+a very open ended and ambiguous principle.
+This is where some argue that the
+principle of subsidiarity can play a role.
+The principle of sub, subsidiarity
+provides that the Union cannot act
+where the objectives of that action can
+be better achieved by the member states.
+So, if the Union is planning to introduce
+a particular regulation or a directive,
+it should ask itself, does this measure
+need to be taken at a Union level?
+Or could the member states achieve
+these objectives just as well?
+Note that the presumption is that it
+should be done by the member states,
+unless there are reasons why it
+needs to be done by the Union.
+So, let's apply this principle to
+the Snus case that we discussed.
+Who should take this action to
+regulate the sale of this product?
+The Union, or the member states?
+This depends on what we define
+as the objective of the measure.
+If the objective is defined as protecting
+public health, then perhaps the member
+state is just as well placed as
+the Union to achieve this objective.
+If on the other hand, we define the
+objective as facilitating the functioning
+of the internal market,
+then this can only be done at Union level,
+because it entails harmonizing
+the laws of all the member states.
+And by definition,
+only the Union can do that.
+So, individuals and member states who
+want to challenge a Union measure
+on the grounds that it breaches
+the principle of conferral or
+the principle of subsidiarity,
+almost never succeed.
+The formal legal powers that the Union
+has under the treaties are very wide and
+allow it, in principle, to regulate almost
+any aspect of the member states' laws.
+But of course, just because the Union has
+the legal power to do a particular act,
+does not mean that it should, or
+that politically it could do it.
+And more importantly, from the perspective
+of this course, the principle of
+conferral and subsidiarity only
+deal with what the Union can do.
+Not with how it should it.
+This is where the principles
+of proportionality,
+non-discrimination, legality and
+respect for fundamental rights come in.
+And they will be the subject
+of the next lectures
+

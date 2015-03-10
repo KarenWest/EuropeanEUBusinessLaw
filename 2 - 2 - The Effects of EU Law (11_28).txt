@@ -1,0 +1,261 @@
+[MUSIC]
+Welcome to this lecture
+on the effects of EU law.
+In the previous lecture Eduardo told
+you about what competences the EU has.
+Essentially looking at
+the question what can the EU do.
+As a title this lecture suggests I
+will focus on the effects of EU law.
+That is what happens when the EU does act,
+when the EU does use its competences?
+However, before we can
+take a closer look at
+the actual mechanisms that
+give effect to EU law,
+I want to make sure that we're on
+the same page about what EU law even is.
+EU law can be viewed as something
+distinct from national law.
+A different legal order which can
+interact with the national one.
+Just as the national legal order
+contains a hierarchy of norms, with, for
+example, a constitution, laws,
+administrative decisions,
+et cetera, the EU legal order also
+contains different legal instruments.
+In terms of EU law, one often speaks
+of primary law and secondary law.
+Primary law, has a higher normative
+value and consists of the treaties.
+You might of heard of the TEU,
+the Treaty on European Union.
+And the TFEU, the Treaty on
+the Functioning of European Union.
+The EU defender rights which
+Magnus will talk to you
+about in your next lecture also forms
+part of what we can call primary law.
+Primary EU law, essentially,
+comes about through agreements
+between sovereign member states.
+Secondary law,
+on the other hand, is produced by
+the EU institutions themselves.
+It's worth mentioning here that
+the main institutions in this
+regard are the Council, The European
+Parliament, and the Commission.
+In general terms,
+secondary law does produce,
+can take the form of a regulation,
+a directive, or a decision.
+Now that we have a better idea
+of what EU law is, now we
+can ask ourselves what
+difference does it make?
+What are the mechanisms
+that makes EU law relevant?
+Relevant to you, relevant to me,
+to the company you're advising, or
+to the member state that this company
+would like to provide services in.
+What makes EU law matter to us?
+Well, the three simple answers to
+this are direct applicability,
+direct effect and primacy.
+I will now do my best to briefly
+explain these three key concepts.
+In turn.
+And I would advise you to listen carefully
+as you can be sure that there will be
+a quiz question on how these
+concepts function and interact.
+In relation to direct
+applicability of EU law,
+the first thing I would like you to do is
+to take a good look at article 288 TFEU.
+As you can see,
+all three forms of secondary law that
+I mentioned earlier are binding.
+Even if directives are only
+binding as the result.
+However, it is only regulations that
+are said to be directly applicable.
+Well, what does this mean,
+that regulations are directly applicable?
+The insistence on direct
+applicability can be
+explained by the traditional view of EU
+law as being part of international law.
+And hence, something very
+different from national law.
+Traditionally, the question of whether
+international law becomes applicable law
+within the legal order of sovereign state
+is a question left to the state at hand.
+That is it is up to each
+state to decide if and
+how international law should
+apply in their territory.
+Following this logic,
+it would have been up to the member
+state to decide when EU law should
+overlap with national law, and be
+applicable with in the national context.
+It should be noted,
+that states have traditionally treated
+international law in very different ways.
+Some states, embracing international law
+as directly applicable on their territory,
+and some states requiring all
+international law to first be
+transposed into national law
+before it can be applicable.
+Therefore, it was very important for
+the founders of the EU to set out
+that some EU law would actually
+be directly applicable.
+Hence, it flows from EU primary
+law that regulations need not, and
+indeed should not,
+be transposed into national law.
+They are, by their very nature,
+directly applicable in the member states.
+From what was said about
+direct applicability.
+You might now have the impression
+that regulations are the only form of
+EU law that really matters
+in a national context.
+Well, early on in the history of
+the European union it's Court of Justice,
+most commonly known as ECJ,
+established that a much wider range of
+EU law was destined to have direct
+legal effects in the member states.
+In the classic judgement of Van Gend en
+Loos, which you can find in the resources
+connected to this lecture, the ECJ
+introduced for the very first time, and
+without any clear legal basis in the
+treaties, the principle of direct effect.
+Together with primacy, this principle
+has become the very foundation for
+giving concrete effects to EU
+law in the national context.
+In fact, as far as definitions go,
+direct effect can be
+defined as the capacity of EU
+law to give rise to rights and
+obligations directly, without the need for
+further implementation.
+In practical terms, it means that
+you should be able to invoke and
+enforce provisions of EU law with
+direct effect in your national context.
+Whether it be before a Spanish court or
+a Swedish administrative body in
+a contract dispute or
+as a defense against criminal prosecution.
+This definition before you might
+sound like direct applicability.
+But direct applicability is not in
+itself a prerequisite for direct effect.
+A particular provision of EU law can
+be deemed to produce direct effect even
+though the legal instruments where we
+find the provision is not a regulation.
+Instead of connecting direct effect to
+direct applicability the ECJ chose to
+expound three concrete conditions
+that all have to be fulfilled for
+a specific EU provision
+to have direct effect.
+Firstly, the provision has to be clear and
+precise.
+There should be no ambiguity about what
+EU law in question actually requires.
+Secondly, the provision has to contain
+an unconditional right to obligation.
+If the first condition is concerned
+with the clarity of language,
+the second condition is concerned with
+clarity of the right to obligation itself.
+Thirdly and lastly, the provision should
+not be dependent on implementing measures.
+This last condition would seem to exclude
+the possibility of provisions and
+directives ever producing direct effect.
+Granted.
+Directives are a bit particular
+when it comes to direct effect.
+Since they are addressed to
+the member states, and only the end,
+not the means, are said to be binding,
+the ECJ has consistently held that
+directives can not produce direct effect,
+at least not between private parties.
+To this effect it is often stated that
+there can be no horizontal direct
+effect flowing from directives.
+However, when it comes to
+relationships between the state, and
+a private party, directives can
+produce vertical direct effect.
+At least when the EU provision is invoked
+by the private party as against the state.
+The ECJ has ruled that the member state,
+and thereby any public administration or
+undertaking should be precluded
+from benefiting from the fact that
+a member state itself has neglected
+to implement a directive correctly.
+This kind of reasoning stems from
+the so-called Estoppel principle,
+which prescribes that no one should be
+able to benefit from their own misconduct.
+As I stated earlier, direct effect and
+primacy works together to
+ensure an effective EU law.
+Shortly after the introduction of
+direct effect in Vend Gend en Loos,
+the ECJ went on to introduce
+the principle of primacy of the EU law.
+In its Costa versus Enel judgment,
+which you'll also find in the resources.
+This principle basically requires that
+EU law has a higher normative value and
+that it has to be given effect, even in
+the presence of a contrary national norm.
+I would like you to think
+about what this means and
+try to answer the following question.
+So, as you see, the combination of
+direct effect on the one hand and
+primacy on the other can be quite
+a force to be reckoned with.
+However, as a very li,
+last note on primacy I would like to add
+that even if the EU provision at hand, for
+one reason or another, does not fulfill
+the criteria for having direct effect.
+Primacy can still come into play.
+The primacy of EU law gives rise to an
+obligation of EU conform interpretation.
+Which was most known to be laid down
+in the ECJ Marleasing judgement.
+This obligation implies that
+all national rules must be
+interpreted in light of EU law.
+And should as far as possible,
+be given an interpretation which
+is in conformity with EU law.
+And here I mean all EU law.
+Not just the one which has direct effect.
+I'll let those be my final words for
+this session, I hope it has been
+helpful and thank you for your time.
+[MUSIC]
+

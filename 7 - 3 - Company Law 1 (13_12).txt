@@ -1,0 +1,308 @@
+Hi.
+My Name is Niklas Arvidsson.
+I am an associate professor of
+the Faculty of Law at Lund University.
+My teaching and research mainly focuses on
+company law and commercial contract law.
+This lecture aims to give you a basic but
+critical introduction into company law and
+its European dimension.
+First, it is important to realize
+that both company and contract law,
+whatever they are, deal with the phenomena
+of huge importance for us all.
+This is quite easily understood.
+Society at large is
+dependent upon markets, and
+market transactions are in
+essence contractual transactions.
+So without contracts,
+there simply is no market.
+But markets also presuppose the existence
+of stuff to be bought and sold.
+As we all know,
+this stuff is called goods and services.
+Without them,
+there will be no transaction.
+The reason is, that the very function
+of transactions is to create rights and
+duties over the stuff.
+But goods and services aren't
+given by God, not directly anyway.
+Instead, someone has to invent and
+produce them.
+And this someone is often a company.
+Why?
+Because invention and
+production comes at a cost.
+And this cost often exceeds
+the means of a single person.
+This is especially true of production.
+A single person might invent something.
+He might even produce something
+out of his invention.
+But he will certainly find mass
+production very hard to accomplish.
+Companies are designed to
+overcome these difficulties.
+Basically, a company is a legal tool for
+accumulating resources, including money
+and people, in order to sell stuff.
+And as I mentioned, contracts
+are the legal tomb for selling and
+buying stuff, of course,
+all this is extremely simplified,
+but in essence, it is nevertheless true.
+In fact, companies are also closely
+related to contracts in another sense.
+Generally speaking, a company's
+voluntary association formed and
+organized to carry on a business.
+And the fact that companies
+are voluntary association,
+means that they are contractually or
+semi-contractually based.
+Okay.
+So what does European law
+have to say about companies?
+Unfortunately, this question
+cannot be answered unless we
+first pursue an answer
+to another question.
+The question I have in mind is what
+it means to speak about company law.
+An answer to this question is logically
+needed in order even to understand
+the first question, furthermore,
+our answer has to be universal.
+Without a universal concept of company
+law, it is impossible to speak of
+company law across jurisdictions,
+as I'm certainly trying to do right now.
+Here we are touching upon
+really interesting stuff.
+To what extent is it really
+possible to communicate legal
+knowledge across jurisdictions.
+And the different languages
+that are tied to them.
+I don't know.
+One thing is sure though,
+legal science is completely and
+radically different from natural sciences.
+Don't be fooled by those saying otherwise.
+There are universal descriptive
+theories of particle physics, but
+there can be no universal descriptive
+theories of law, including company law.
+Having said this,
+I still think it's possible to elaborate,
+the minimalist universal
+concept of company law.
+Let me at least try.
+Roughly speaking, company law is law
+specifically targeted at companies.
+As we remember, a company is
+a voluntary association formed and
+organized to carry on a business.
+This definition is large enough to
+comprise both companies limited by
+shares and partnerships.
+It should be mentioned however,
+that the word company often is used as
+a short hand for company limited by
+shares, also known as corporations.
+According to this usage,
+partnerships are not companies at all.
+But here, I don't use the word
+in such a narrow meaning.
+No doubt, the vast majority of the laws
+applicable to companies are not
+part of company law, instead, these laws
+are usually members of other areas of law,
+such as contract law, securities law,
+tort law or tax law, company law.
+Well, this law applicable to and
+only to companies.
+Now, a universal concept of company
+law cannot be too content focused.
+The reason is that there
+are huge differences between
+different jurisdictions as to
+how companies are regulated.
+One kind of differences concerns
+available company forms.
+Most company forms are not shared by
+all jurisdictions on the planet earth.
+However, some forms are more or
+less universal,
+such as the company limited by shares and
+the general partnership.
+The trouble is that within such more or
+less universal forms, there are still
+differences as to, to applicable rules.
+The differences and similarities between
+jurisdictions are discussed within
+an international discipline
+called comparative company law.
+In view of the release, however,
+it has become fashionable to shift
+focus from rules to functions.
+The underlying idea is that rules
+address extra legal problems and
+that different rules can
+address the same problem.
+Hence, in spite of the fact that
+there are a few universal rules,
+maybe there are universal functions.
+And maybe, a universal theory of company
+law could be built upon such functions.
+The problem here is that
+the word function is ambiguous.
+Sometimes it is used to describe effects,
+and
+sometimes it is used to
+describe intended effects.
+And as we all know, there is no guarantee
+that a rule has the intended effect.
+As a matter of fact,
+there is no guarantee at all that a rule
+is underpinned by any intentions.
+I am aware that this might sound strange.
+We are so used to view law instrumentally.
+That we often have a hard time accepting
+the possibility of purposeless rules.
+Anyway, the dominating functionalist
+view of company law is built upon
+economics.The point of departure
+consists of the so called agency theory.
+According to this theory,
+the problems of any company law
+are derived from information asymmetries
+between so-called agents and principals.
+The reason is, that these asymmetries
+give rise to so-called agency costs.
+And company law, it is thought,
+can best be explained as motivated by
+an endeavour to minimize such costs.
+In its most general form,
+the principal is anyone who's
+interests are affected by
+the actions of another person.
+This other person then is an agent.
+And thus, if A and B are persons and
+A's decisions influence B's welfare, then
+B is A's principal, and A is B's agent.
+However, in law, agency relationships
+presuppose the existence of direct or
+indirect legal relationships
+between agents and principals.
+In the context of a company, there
+usually are multiple agency relations.
+For an example, such relations exist
+between the company's members.
+They also exist between,
+on the one hand members, and
+on the other hand non-members, who are
+invested with decision-making authority.
+And, they exist between members and
+other company stakeholders,
+including the company's creditors.
+No doubt agency theory has
+proven very fruitful in
+explaining the fundamental
+problems of company law.
+But I will not dwell on this theory here,
+instead, I would like to construct a more
+rule oriented concept of company law.
+In spite of the difficulties, I believe
+that such an account is possible but
+of course,
+it has to be sufficiently general in
+character to accommodate very different
+company forms and company rules.
+I will however, only speak of companies
+with so called legal personality.
+This means that I'm only interested in
+company forms which as a matter of law,
+can have rights and duties.
+The core of company law
+has three components.
+First, there have to be rules
+concerning the decision making
+procedures within a company.
+This rules organize and
+regulate the decision making
+authority on behalf of the company.
+In that way, they construct what is known
+as the company's internal relations.
+Secondly, there had to be
+rules that organized and
+regulate the representation of
+authority on behalf of the company.
+These rules concern what is known as
+the company's external relations.
+And thirdly, there have to be rules
+regarding the responsibilities for
+the company's debts.
+Rules regarding decision making procedures
+are necessary since companies usually have
+many members, often they also have other
+persons involved in the decision making,
+such as directors and officers.
+Due to this pre-release,
+there had to be rules that decide
+when a company decision exists.
+In other words, these rules identify
+the conditions under which the decision is
+subscribed to the company.
+For example, within a company
+limited by shares, the individual
+shareholders usually have no decision
+making authority on behalf of the company.
+Instead, this authority is granted to
+entities such as the general meeting and
+the board of directors.
+But the rules that help us identify
+company decisions are insufficient.
+Instead, they had to be complimented
+with another type of rules.
+These are rules which decide when a given
+company decision is lawful and or
+not, from the perspective of company law.
+Even though the person or entity might
+have decision making authority on
+behalf of the company,
+that authority is not only potent.
+Instead, it is circumscribed
+by other rules,
+these rules limit the decision
+making authority.
+And they do so in order to safeguard
+the interests of some kind of
+legally recognized
+stakeholders in the company.
+Such stakeholders typically
+include company members and
+the company's creditors.
+An intensely debated normative question
+concerns, how the relevance stakeholders
+should be conceived, especially in
+the context of multinational corporations.
+This question has a defining character for
+the international movement that calls for
+an enlarged corporate
+social responsibility.
+This is not the place to
+discuss these things further.
+Let me just say that the issue
+might be explained in terms of
+so-called externalities.
+Actions taken by multinational
+corporations no doubt have
+an enormous societal impact.
+It seems clear then that the welfare
+of humankind at large is
+strongly affected by corporate actions for
+good and evil.
+
